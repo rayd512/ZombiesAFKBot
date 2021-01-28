@@ -44,9 +44,9 @@ Pause will pause the script
 1. The bot is not reloading everytime it looks down  
 Adjust the Fire Delay or Reload Time. Use show ammo to help you debug as it will show you how much ammo the bot thinks you have. Pause the script using the pause
 button at some points and check if the ammo in game matches the bots
-2. The bot has veered off course
+2. The bot has veered off course  
 Reduce the fire rate
-3. Character in game has moved
+3. Character in game has moved  
 No current solution
 
 ## TO DO
