@@ -69,7 +69,7 @@ Gui, Submit, NoHide
 ammo := ammoMaster
 afking := true
 counter := 0
-x := -25
+x := 25
 
 if (shotDelay = "" or reloadWait = "" or numShots = "" or ammoMax = "" or ammoMaster="") {
 	MsgBox, 0x41000, Error, You must fill in every field
@@ -114,9 +114,9 @@ Loop {
 			}
 			counter++
 			if (counter = 6) {
-				x := 25
-			} else if (counter = 12) {
 				x := -25
+			} else if (counter = 12) {
+				x := 25
 				counter := 0
 			}
 		}
