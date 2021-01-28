@@ -52,3 +52,4 @@ No current solution
 ## TO DO
 1. Work on ensuring character doesn't get pushed out of the spot
 2. Additional Features
+3. Clean and comment code
