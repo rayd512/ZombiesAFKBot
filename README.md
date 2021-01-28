@@ -25,5 +25,30 @@ time to periodically check the bot, you can use a high fire rate and just readju
 ammo are by default disabled. Use field upgrade will use your field upgrade after each ammo up and show ammo is used for debugging.  
 ![](https://i.imgur.com/1lmv8qn.png)
 4. Stand in the right spot  
-For optimal results, stand at this location at spawn  
-![](https://imgur.com/S3rsN09)
+For optimal results, stand and look at this location at spawn 
+![](https://i.imgur.com/S3rsN09.png)
+5. Start the script  
+Once you are standing and looking at the right spot and have filled in the parameters, press okay. Immediately click back on to your game and the script will start
+in 3 seconds.
+6. Check if it's working properly  
+For some, this may not be an issue as the bot it still firing. However, the bot should be looking down every time it reloads. If it not, go look at [Troubleshooting](#Troubleshooting)
+
+## Additional Notes
+There are a couple of different hotkeys set for this program and they are as follows  
+
+F1 will exit the app, use this if you lose control
+F2 will stop the bot and you can change options. Press okay again and the bot will start running
+Pause will pause the script
+
+## Troubleshooting
+1. The bot is not reloading everytime it looks down  
+Adjust the Fire Delay or Reload Time. Use show ammo to help you debug as it will show you how much ammo the bot thinks you have. Pause the script using the pause
+button at some points and check if the ammo in game matches the bots
+2. The bot has veered off course
+Reduce the fire rate
+3. Character in game has moved
+No current solution
+
+## TO DO
+1. Work on ensuring character doesn't get pushed out of the spot
+2. Additional Features
