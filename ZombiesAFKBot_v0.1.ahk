@@ -133,7 +133,7 @@ Loop {
 	}
 	Loop, 10 {
 		Loop, 2 {
-			Send {e 1}
+			Send {f 1}
 			Sleep, 5
 		}
 	}
