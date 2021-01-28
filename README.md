@@ -36,9 +36,9 @@ For some, this may not be an issue as the bot it still firing. However, the bot 
 ## Additional Notes
 There are a couple of different hotkeys set for this program and they are as follows  
 
-F1 will exit the app, use this if you lose control
-F2 will stop the bot and you can change options. Press okay again and the bot will start running
-Pause will pause the script
+F1 will exit the app, use this if you lose control  
+F2 will stop the bot and you can change options. Press okay again and the bot will start running  
+Pause will pause the script  
 
 ## Troubleshooting
 1. The bot is not reloading everytime it looks down  
